@@ -100,6 +100,6 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Live Demo:** [View App]https://job-rs.streamlit.app/
+**Live Demo:** [View App](https://job-rs.streamlit.app/)
 
 ---
