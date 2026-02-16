@@ -82,16 +82,6 @@ job-recommender/
 
 ---
 
-## 🚀 Future Improvements
-
-- Add job descriptions and required experience levels to results
-- Include salary range estimates for recommended roles
-- Expand dataset to 200+ jobs across more industries
-- Add filtering options (experience level, location, remote/onsite)
-- Implement user feedback mechanism to improve recommendations
-
----
-
 ## 📊 Dataset
 
 Custom-curated dataset of 50 technology job roles spanning:
@@ -109,5 +99,3 @@ Custom-curated dataset of 50 technology job roles spanning:
 This project is open source and available for educational purposes.
 
 ---
-
-**Live Demo:** [Coming Soon - Deployed on Streamlit Cloud]
