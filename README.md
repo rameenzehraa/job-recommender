@@ -99,3 +99,7 @@ Custom-curated dataset of 50 technology job roles spanning:
 This project is open source and available for educational purposes.
 
 ---
+
+**Live Demo:** [View App]https://job-rs.streamlit.app/
+
+---
