@@ -1,0 +1,51 @@
+job_title,job_description
+Data Analyst,python sql dashboards data visualization
+ML Engineer,machine learning models deployment tensorflow
+Frontend Developer,react javascript html css ui design
+Backend Developer,nodejs python apis databases servers
+DevOps Engineer,CI/CD pipelines docker kubernetes cloud infrastructure
+Data Engineer,ETL pipelines data warehousing spark airflow
+Cybersecurity Analyst,threat detection network security penetration testing encryption
+Full Stack Developer,MERN stack web applications frontend backend integration
+Cloud Architect,AWS Azure cloud migration microservices scalability
+UI/UX Designer,figma wireframing user research prototyping accessibility
+QA Automation Engineer,selenium cypress unit testing bug tracking regression
+Mobile Developer,react native flutter swift kotlin mobile optimization
+Site Reliability Engineer,system monitoring incident response automation performance tuning
+NLP Engineer,LLMs transformers text processing sentiment analysis
+Computer Vision Engineer,opencv image recognition object detection pytorch
+Embedded Systems Engineer,C C++ microcontrollers firmware hardware interfacing
+Blockchain Developer,solidity smart contracts ethereum decentralized apps
+Database Administrator,postgresql optimization replication indexing backups
+Product Manager,agile roadmaps user stories stakeholder management KPIs
+Systems Administrator,linux server management networking active directory shell scripting
+AI Research Engineer,pytorch transformers model training experimentation evaluation pipelines
+Junior Software Engineer,python git debugging unit tests agile collaboration
+Data Scientist,python pandas scikit learn statistical modeling feature engineering
+Cloud Security Engineer,iam policies cloud monitoring vulnerability assessment incident response
+Platform Engineer,kubernetes helm terraform cloud networking observability automation
+Game Developer,unity c sharp gameplay physics animation optimization
+AR VR Developer,unity blender spatial computing headset integration rendering
+Technical Product Owner,backlog grooming jira analytics requirements prioritization roadmaps
+MLOps Engineer,model versioning docker kubeflow monitoring automated retraining
+Business Intelligence Developer,power bi sql data modeling dashboard automation
+API Integration Engineer,rest graphql webhooks authentication third party services
+Automation Test Engineer,playwright pytest test frameworks ci pipeline integration
+Network Engineer,firewalls routing switching vpn monitoring troubleshooting
+Penetration Tester,ethical hacking exploit development vulnerability scanning reporting
+Digital Product Designer,figma design systems interaction flows usability testing
+Cloud Support Engineer,aws troubleshooting logging backups cost optimization scripts
+Big Data Engineer,hadoop spark kafka distributed processing pipeline orchestration
+CRM Developer,salesforce workflows apex integrations reporting automation
+Technical Support Engineer,linux diagnostics ticketing systems customer issue resolution
+Robotics Software Engineer,ros python sensor fusion motion planning control
+Unity Technical Artist,shader graphs lighting optimization asset pipelines
+Solutions Architect,microservices system design cloud scalability client requirements
+Firmware Engineer,embedded c drivers real time systems debugging
+Observability Engineer,prometheus grafana tracing logging reliability metrics
+Release Manager,ci pipelines version control deployment coordination rollback planning
+Web Performance Engineer,lighthouse profiling caching cdn frontend optimization
+AI Prompt Engineer,llm prompting evaluation chains automation prompt libraries
+Identity Access Engineer,sso oauth active directory role based access
+ETL Developer,sql python airflow data ingestion transformations
+Visualization Engineer,d3 js interactive charts storytelling performance tuning
