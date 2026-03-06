@@ -14,20 +14,21 @@ col1, col2, col3 = st.columns([1, 4, 1])
 with col2:
     st.title("Job Recommendation System")
     st.markdown("Find the best job matches based on your skills and interests")
-    st.markdown("---")  # Divider line
+    st.markdown("---")
     
     # Load data
     df, vectorizer, vectors = load_and_prepare()
     
     # Input section
     st.markdown("### Enter Your Skills or Interests")
-    x = st.text_input("", placeholder="e.g., python data analysis, react frontend, machine learning")
+    x = st.text_input("", placeholder="e.g., python data analysis, react frontend, machine learning", key="input")
     st.caption("**Try:** 'machine learning tensorflow' or 'react frontend design' or 'devops cloud kubernetes'")
 
-    st.markdown("")  # Add space
+    st.markdown("")
     
-    # Button
-    if st.button('Recommend Jobs', use_container_width=True):
+    # Button OR Enter key triggers recommendation
+    if st.button('Recommend Jobs', use_container_width=True) or (x and x != st.session_state.get('last_input', '')):
+        st.session_state['last_input'] = x
         if x.strip() == "":
             st.warning("Please enter some skills or interests")
         else:
