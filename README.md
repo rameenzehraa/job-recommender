@@ -1,6 +1,6 @@
 # 🎯 Job Recommendation System
 
-An ML-powered application that recommends relevant job roles based on user skills and interests using Natural Language Processing.
+An ML-powered job recommendation system using TF-IDF and cosine similarity on a dataset of 147+ real-world job roles from Kaggle.
 
 **Built by:** Rameen Zehra
 
@@ -84,13 +84,7 @@ job-recommender/
 
 ## 📊 Dataset
 
-Custom-curated dataset of 50 technology job roles spanning:
-- Data Science & Analytics
-- Software Engineering
-- Machine Learning & AI
-- DevOps & Cloud
-- Design & Product
-- Cybersecurity
+Dataset of 147 diverse job roles sourced from Kaggle
 
 ---
 
